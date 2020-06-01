@@ -1,7 +1,9 @@
 
-![App Brewery Banner](Documentation/120.png)
+![ByteCoin Logo](Documentation/120.png)
 
 # ByteCoin
+
+![ByteCoinDemo GIF](Documentation/ByteCoinDemo.gif)
 
 ## Goal
 
